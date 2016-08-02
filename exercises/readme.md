@@ -42,3 +42,6 @@ about commiting the changes and finally push them into your forked repository.
   push to the forked repository, finally discuss the differences between both methods, using the readme file of this
   exercise.
 
+The difference GET and POST.
+  The GET method is to retrieve information.
+  The POST method is to push information out.
